@@ -1,0 +1,11 @@
+{
+  "name": "zocdoc",
+  "version": "1.0.0",
+  "description": "Test Cases about the web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "author": "Mr Bones",
+  "license": "ISC"
+}
