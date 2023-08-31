@@ -7,5 +7,6 @@
     "test": "npx cypress run"
   },
   "author": "Mr Bones",
-  "license": "ISC"
+  "license": "ISC",
+  "page" : "https://www.zocdoc.com/ "
 }
