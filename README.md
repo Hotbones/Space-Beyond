@@ -7,7 +7,9 @@ Url a testear --> https://demo.testim.io/
 - Crear un plan de pruebas de frontend le ayuda a conocer los dispositivos, navegadores y sistemas que su proyecto debe cubrir.
 - También le ayuda a obtener total claridad sobre el alcance del proyecto.
 
-![Space](https://github.com/Hotbones/Space-Beyond/assets/105388226/ad3bc8a4-eb50-4796-a806-c564f2f96b0f)
+# Example
+
+![space](https://github.com/Hotbones/Space-Beyond/assets/105388226/8c182c55-1ae1-47ab-92c5-7968f78d196f)
 
 
 Mr. Bones
